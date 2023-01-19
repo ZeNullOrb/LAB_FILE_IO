@@ -23,3 +23,5 @@ while True:
         break
     else:
         print("Please answer with y/n")
+
+print("thank you for using the To-Do program, come back again soon")
